@@ -197,16 +197,6 @@ motto: "Focusing"
 
 ---
 
-## 🎵 Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vedanta&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true&bar_color=6366F1)](https://spotify-github-profile.kittinanx.com/api/view?uid=vedanta&redirect=true)
-
-</div>
-
----
-
 <div align="center">
 
 <!-- Animated Footer -->
