@@ -1,10 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedanta%20Barooah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Large-scale%20enterprise%20strategy%20and%20engine-room%20execution&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Enterprise+Architect+%F0%9F%8F%97%EF%B8%8F;AI+%2F+LLM+Engineer+%F0%9F%A4%96;Kubernetes+Specialist+%E2%9B%B5;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vedanta%20Barooah&fontSize=50&fontColor=fff&fontAlignY=35&desc=Large-scale%20enterprise%20strategy%20and%20engine-room%20execution&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -200,7 +197,7 @@ motto: "Focusing"
 <div align="center">
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <br/>
 
