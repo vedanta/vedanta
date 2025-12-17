@@ -53,7 +53,7 @@ motto: "Focusing"
 <img src="https://github-readme-stats.vercel.app/api?username=vedanta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700"/>
+<img src="https://streak-stats.demolab.com/?user=vedanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700"/>
 
 </div>
 
