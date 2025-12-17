@@ -93,7 +93,6 @@ motto: "Focusing"
 
 <!-- Stats Cards Row -->
 <img src="https://github-readme-stats.vercel.app/api?username=vedanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://streak-stats.demolab.com/?user=vedanta&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" height="180"/>
 
 <br/><br/>
 
