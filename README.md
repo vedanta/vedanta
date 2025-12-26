@@ -40,53 +40,6 @@ I'm a freelance consultant specializing in large-scale enterprise systems and AI
 
 <br/>
 
-## Featured Projects
-
-<table>
-<tr>
-<td>
-
-### [ui-cli](https://github.com/vedanta/ui-cli)
-Terminal UI framework for building beautiful CLI applications
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Stars](https://img.shields.io/github/stars/vedanta/ui-cli?style=flat&color=yellow)
-
-</td>
-<td>
-
-### [llm-box](https://github.com/vedanta/llm-box)
-Local LLM orchestration and experimentation toolkit
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/vedanta/llm-box?style=flat&color=yellow)
-
-</td>
-</tr>
-<tr>
-<td>
-
-### [rasa](https://github.com/vedanta/rasa)
-Conversational AI framework extensions and integrations
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/vedanta/rasa?style=flat&color=yellow)
-
-</td>
-<td>
-
-### [k8s-vault](https://github.com/vedanta/k8s-vault)
-HashiCorp Vault integration patterns for Kubernetes
-
-![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Stars](https://img.shields.io/github/stars/vedanta/k8s-vault?style=flat&color=yellow)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## Contributions
 
 <div align="center">
