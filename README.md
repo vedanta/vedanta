@@ -42,34 +42,48 @@ I'm a freelance consultant specializing in large-scale enterprise systems and AI
 
 ## Featured Projects
 
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td>
 
-[![ui-cli](https://github-readme-stats.vercel.app/api/pin/?username=vedanta&repo=ui-cli&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vedanta/ui-cli)
+### [ui-cli](https://github.com/vedanta/ui-cli)
+Terminal UI framework for building beautiful CLI applications
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Stars](https://img.shields.io/github/stars/vedanta/ui-cli?style=flat&color=yellow)
 
 </td>
-<td width="50%">
+<td>
 
-[![llm-box](https://github-readme-stats.vercel.app/api/pin/?username=vedanta&repo=llm-box&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vedanta/llm-box)
+### [llm-box](https://github.com/vedanta/llm-box)
+Local LLM orchestration and experimentation toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/vedanta/llm-box?style=flat&color=yellow)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
-[![rasa](https://github-readme-stats.vercel.app/api/pin/?username=vedanta&repo=rasa&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vedanta/rasa)
+### [rasa](https://github.com/vedanta/rasa)
+Conversational AI framework extensions and integrations
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/vedanta/rasa?style=flat&color=yellow)
 
 </td>
-<td width="50%">
+<td>
 
-[![k8s-vault](https://github-readme-stats.vercel.app/api/pin/?username=vedanta&repo=k8s-vault&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vedanta/k8s-vault)
+### [k8s-vault](https://github.com/vedanta/k8s-vault)
+HashiCorp Vault integration patterns for Kubernetes
+
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Stars](https://img.shields.io/github/stars/vedanta/k8s-vault?style=flat&color=yellow)
 
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
