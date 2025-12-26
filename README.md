@@ -64,7 +64,7 @@ I'm a freelance consultant specializing in large-scale enterprise systems and AI
 </td>
 <td width="50%">
 
-[![war-rag](https://github-readme-stats.vercel.app/api/pin/?username=vedanta&repo=war-rag&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vedanta/war-rag)
+[![k8s-vault](https://github-readme-stats.vercel.app/api/pin/?username=vedanta&repo=k8s-vault&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vedanta/k8s-vault)
 
 </td>
 </tr>
