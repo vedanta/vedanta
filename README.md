@@ -34,19 +34,37 @@
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 <a href="https://github.com/vedanta/the-system">
-  <img src="https://raw.githubusercontent.com/vedanta/the-system/main/images/system-hero-3.png" width="30%" />
+<img src="https://raw.githubusercontent.com/vedanta/the-system/main/images/system-hero-3.png" width="100%" />
+<br/><br/>
+<b>the-system</b>
+<br/>
+<sub>Multi-agent orchestration framework with roles, stages, human gates and autonomous execution</sub>
 </a>
-&nbsp;&nbsp;
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/vedanta/dfo">
-  <img src="https://raw.githubusercontent.com/vedanta/dfo/main/art/dfo_logo.png" width="30%" />
+<img src="https://raw.githubusercontent.com/vedanta/dfo/main/art/dfo_logo.png" width="100%" />
+<br/><br/>
+<b>dfo</b>
+<br/>
+<sub>Multi-cloud cost optimization toolkit</sub>
 </a>
-&nbsp;&nbsp;
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/vedanta/ui-cli">
-  <img src="https://raw.githubusercontent.com/vedanta/ui-cli/main/art/uicli_new.png" width="30%" />
+<img src="https://raw.githubusercontent.com/vedanta/ui-cli/main/art/uicli_new.png" width="100%" />
+<br/><br/>
+<b>ui-cli</b>
+<br/>
+<sub>Fast and full-featured CLI for UniFi Networks</sub>
 </a>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
