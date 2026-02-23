@@ -37,31 +37,25 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/vedanta/the-system">
 <img src="https://raw.githubusercontent.com/vedanta/the-system/main/images/system-hero-3.png" width="100%" />
 <br/><br/>
-<b>the-system</b>
+<a href="https://github.com/vedanta/the-system"><b>the-system</b></a>
 <br/>
 <sub>Multi-agent orchestration framework with roles, stages, human gates and autonomous execution</sub>
-</a>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/vedanta/dfo">
 <img src="https://raw.githubusercontent.com/vedanta/dfo/main/art/dfo_logo.png" width="100%" />
 <br/><br/>
-<b>dfo</b>
+<a href="https://github.com/vedanta/dfo"><b>dfo</b></a>
 <br/>
 <sub>Multi-cloud cost optimization toolkit</sub>
-</a>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/vedanta/ui-cli">
 <img src="https://raw.githubusercontent.com/vedanta/ui-cli/main/art/uicli_new.png" width="100%" />
 <br/><br/>
-<b>ui-cli</b>
+<a href="https://github.com/vedanta/ui-cli"><b>ui-cli</b></a>
 <br/>
 <sub>Fast and full-featured CLI for UniFi Networks</sub>
-</a>
 </td>
 </tr>
 </table>
