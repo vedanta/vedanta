@@ -32,6 +32,24 @@
 
 <br/>
 
+## Featured Projects
+
+<div align="center">
+<a href="https://github.com/vedanta/the-system">
+  <img src="https://raw.githubusercontent.com/vedanta/the-system/main/images/system-hero-3.png" width="30%" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vedanta/dfo">
+  <img src="https://raw.githubusercontent.com/vedanta/dfo/main/art/dfo_logo.png" width="30%" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vedanta/ui-cli">
+  <img src="https://raw.githubusercontent.com/vedanta/ui-cli/main/art/uicli_new.png" width="30%" />
+</a>
+</div>
+
+<br/>
+
 ## Contributions
 
 <div align="center">
