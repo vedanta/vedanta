@@ -22,14 +22,6 @@
 
 <br/>
 
-## About
-
-I'm a freelance consultant specializing in large-scale enterprise systems and AI/LLM applications. I bridge the gap between high-level strategy and hands-on execution—architecting Kubernetes clusters, building RAG pipelines, and shipping production infrastructure.
-
-**Currently focused on:** AI-powered developer tools, distributed systems, and open source tooling.
-
-<br/>
-
 ## Tech Stack
 
 <div align="center">
