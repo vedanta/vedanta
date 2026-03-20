@@ -39,6 +39,8 @@
 <a href="https://github.com/vedanta/rasa"><b>rasa</b></a>
 <br/>
 <sub>Persona-driven, memory-integrated AI framework for next-gen AI agents</sub>
+<br/><br/>
+<a href="https://github.com/vedanta/rasa"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
 <td align="center" valign="top" width="25%">
 <img src="https://raw.githubusercontent.com/vedanta/hero-images/main/dfo.png" width="100%" />
@@ -46,6 +48,8 @@
 <a href="https://github.com/vedanta/dfo"><b>dfo</b></a>
 <br/>
 <sub>Multi-cloud cost optimization toolkit</sub>
+<br/><br/>
+<a href="https://github.com/vedanta/dfo"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
 <td align="center" valign="top" width="25%">
 <img src="https://raw.githubusercontent.com/vedanta/hero-images/main/ui-cli.png" width="100%" />
