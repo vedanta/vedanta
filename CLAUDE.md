@@ -15,6 +15,25 @@ This is a **GitHub profile repository** (`vedanta/vedanta`). The README.md is re
   - `snake.yml` — Generates snake animation SVGs daily and on push to main (uses `Platane/snk/svg-only@v3`). Output pushed to the `output` branch.
   - `blog-posts.yml` — Pulls latest Medium posts from `@barooah` feed daily (uses `gautamkrishnar/blog-post-workflow@v1`). Expects a `<!-- BLOG-POST-LIST -->` marker in README.md.
 
+## README Layout Rules
+
+The profile page sections appear in this order:
+1. Header banner + social badge links
+2. Featured Projects (with "🦍 The Gorilla Stack" tagline in `<kbd>` style)
+3. Snake animation
+4. Tech Stack
+5. Contributions (3D calendar)
+6. Footer
+
+### Featured Projects
+
+- Projects are displayed in a single `<table>` row with equal-width columns (currently 4 at 25%).
+- All `<td>` cells use `align="center" valign="top"` to keep images top-aligned.
+- Hero images come from `https://raw.githubusercontent.com/vedanta/hero-images/main/<projectname>.png`.
+- If a project has a GitHub Pages site, link to that instead of the repo. Use `gh api repos/vedanta/<repo>/pages` to check.
+- When adding a new project, adjust column `width` percentages so all columns are equal (e.g., 5 projects = 20% each).
+- After any README change, always `git pull --rebase` before pushing since CI frequently commits to main.
+
 ## Key Details
 
 - The `output` branch holds snake animation SVGs and is managed entirely by CI — do not commit to it manually.
