@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 <img src="https://raw.githubusercontent.com/vedanta/hero-images/main/the-system.png" width="100%" />
 <br/><br/>
 <a href="https://vedanta.github.io/the-system/"><b>the-system</b></a>
@@ -33,7 +33,7 @@
 <a href="https://vedanta.github.io/the-system/"><img src="https://img.shields.io/badge/-page-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="page"/></a>&nbsp;
 <a href="https://github.com/vedanta/the-system"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 <img src="https://raw.githubusercontent.com/vedanta/hero-images/main/rasa.png" width="100%" />
 <br/><br/>
 <a href="https://github.com/vedanta/rasa"><b>rasa</b></a>
@@ -42,7 +42,7 @@
 <br/><br/>
 <a href="https://github.com/vedanta/rasa"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 <img src="https://raw.githubusercontent.com/vedanta/hero-images/main/dfo.png" width="100%" />
 <br/><br/>
 <a href="https://github.com/vedanta/dfo"><b>dfo</b></a>
@@ -51,7 +51,7 @@
 <br/><br/>
 <a href="https://github.com/vedanta/dfo"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 <img src="https://raw.githubusercontent.com/vedanta/hero-images/main/ui-cli.png" width="100%" />
 <br/><br/>
 <a href="https://vedanta.github.io/ui-cli/"><b>ui-cli</b></a>
@@ -60,6 +60,15 @@
 <br/><br/>
 <a href="https://vedanta.github.io/ui-cli/"><img src="https://img.shields.io/badge/-page-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="page"/></a>&nbsp;
 <a href="https://github.com/vedanta/ui-cli"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
+</td>
+<td align="center" valign="top" width="20%">
+<img src="https://raw.githubusercontent.com/vedanta/hero-images/main/learngen.png" width="100%" />
+<br/><br/>
+<a href="https://github.com/vedanta/learngen"><b>learngen</b></a>
+<br/>
+<sub>Agentic pipeline to build staged tutorials and learning guides</sub>
+<br/><br/>
+<a href="https://github.com/vedanta/learngen"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
 </tr>
 </table>

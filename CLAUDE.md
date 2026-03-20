@@ -30,7 +30,15 @@ The profile page sections appear in this order:
 - Projects are displayed in a single `<table>` row with equal-width columns (currently 4 at 25%).
 - All `<td>` cells use `align="center" valign="top"` to keep images top-aligned.
 - Hero images come from `https://raw.githubusercontent.com/vedanta/hero-images/main/<projectname>.png`.
-- If a project has a GitHub Pages site, link to that instead of the repo. Use `gh api repos/vedanta/<repo>/pages` to check.
+- Each project card structure: hero image → project name (linked) → `<sub>` description → badge buttons.
+- If a project has a GitHub Pages site (`gh api repos/vedanta/<repo>/pages` to check):
+  - The project name links to the Pages site.
+  - Show two badges below the description: a blue "page" badge (links to Pages) and a dark "repo" badge (links to GitHub repo).
+  - Page badge: `https://img.shields.io/badge/-page-0A66C2?style=flat&logo=googlechrome&logoColor=white`
+  - Repo badge: `https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white`
+- If a project has no GitHub Pages site:
+  - The project name links to the GitHub repo.
+  - Show only a "repo" badge below the description.
 - When adding a new project, adjust column `width` percentages so all columns are equal (e.g., 5 projects = 20% each).
 - After any README change, always `git pull --rebase` before pushing since CI frequently commits to main.
 
