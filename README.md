@@ -15,6 +15,12 @@
 
 ## Featured Projects
 
+<div align="center">
+<kbd>&nbsp;&nbsp;🦍&nbsp; The Gorilla Stack &nbsp;&nbsp;</kbd>
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td align="center" valign="top" width="25%">
