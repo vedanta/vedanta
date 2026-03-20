@@ -29,7 +29,8 @@
 <a href="https://vedanta.github.io/the-system/"><b>the-system</b></a>
 <br/>
 <sub>Multi-agent orchestration framework with roles, stages, human gates and autonomous execution</sub>
-<br/>
+<br/><br/>
+<a href="https://vedanta.github.io/the-system/"><img src="https://img.shields.io/badge/-page-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="page"/></a>&nbsp;
 <a href="https://github.com/vedanta/the-system"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
 <td align="center" valign="top" width="25%">
@@ -52,7 +53,8 @@
 <a href="https://vedanta.github.io/ui-cli/"><b>ui-cli</b></a>
 <br/>
 <sub>Fast and full-featured CLI for UniFi Networks</sub>
-<br/>
+<br/><br/>
+<a href="https://vedanta.github.io/ui-cli/"><img src="https://img.shields.io/badge/-page-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="page"/></a>&nbsp;
 <a href="https://github.com/vedanta/ui-cli"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
 </tr>
