@@ -37,21 +37,21 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/vedanta/the-system/main/images/system-hero-3.png" width="100%" />
+<img src="https://raw.githubusercontent.com/vedanta/hero-images/main/the-system.png" width="100%" />
 <br/><br/>
 <a href="https://github.com/vedanta/the-system"><b>the-system</b></a>
 <br/>
 <sub>Multi-agent orchestration framework with roles, stages, human gates and autonomous execution</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/vedanta/dfo/main/art/dfo_logo.png" width="100%" />
+<img src="https://raw.githubusercontent.com/vedanta/hero-images/main/dfo.png" width="100%" />
 <br/><br/>
 <a href="https://github.com/vedanta/dfo"><b>dfo</b></a>
 <br/>
 <sub>Multi-cloud cost optimization toolkit</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/vedanta/ui-cli/main/art/uicli_new.png" width="100%" />
+<img src="https://raw.githubusercontent.com/vedanta/hero-images/main/ui-cli.png" width="100%" />
 <br/><br/>
 <a href="https://github.com/vedanta/ui-cli"><b>ui-cli</b></a>
 <br/>
