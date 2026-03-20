@@ -45,10 +45,11 @@
 <td align="center" valign="top" width="20%">
 <img src="https://raw.githubusercontent.com/vedanta/hero-images/main/dfo.png?v=2" width="100%" />
 <br/><br/>
-<a href="https://github.com/vedanta/dfo"><b>dfo</b></a>
+<a href="https://vedanta.github.io/dfo/"><b>dfo</b></a>
 <br/>
 <sub>Multi-cloud cost optimization toolkit</sub>
 <br/><br/>
+<a href="https://vedanta.github.io/dfo/"><img src="https://img.shields.io/badge/-page-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="page"/></a>&nbsp;
 <a href="https://github.com/vedanta/dfo"><img src="https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white" alt="repo"/></a>
 </td>
 <td align="center" valign="top" width="20%">

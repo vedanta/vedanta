@@ -27,9 +27,10 @@ The profile page sections appear in this order:
 
 ### Featured Projects
 
-- Projects are displayed in a single `<table>` row with equal-width columns (currently 4 at 25%).
+- Projects are displayed in a single `<table>` row with equal-width columns (currently 5 at 20%).
 - All `<td>` cells use `align="center" valign="top"` to keep images top-aligned.
 - Hero images come from `https://raw.githubusercontent.com/vedanta/hero-images/main/<projectname>.png`.
+- When hero images are updated in the `hero-images` repo, bump the `?v=N` cache-buster query parameter on all image URLs to force GitHub's CDN to serve the new versions.
 - Each project card structure: hero image → project name (linked) → `<sub>` description → badge buttons.
 - If a project has a GitHub Pages site (`gh api repos/vedanta/<repo>/pages` to check):
   - The project name links to the Pages site.
