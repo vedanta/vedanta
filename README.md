@@ -90,7 +90,7 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,bash,html,css,react,nextjs,angular,nodejs,electron,fastapi,flask,tailwind,vite,kubernetes,docker,terraform,aws,gcp,nginx,githubactions,vercel,postgres,redis,sqlite,prometheus,sentry,linux,vim,git&perline=16" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,go,bash,html,css,react,nextjs,angular,nodejs,electron,fastapi,flask,tailwind,vite,kubernetes,docker,terraform,aws,gcp,azure,nginx,githubactions,vercel,postgres,redis,sqlite,prometheus,sentry,linux,vim,git&perline=16" />
 </a>
 </div>
 
