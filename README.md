@@ -39,7 +39,8 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 | **streamdeck-br** | Backup & restore Elgato Stream Deck settings on macOS | [repo](https://github.com/vedanta/streamdeck-br) |
 | **shellot.sh** | macOS environment backup manager | [repo](https://github.com/vedanta/shellot.sh) |
 | **jinc** | Jupyter Interactive Notebook Creator | [repo](https://github.com/vedanta/jinc) |
-| **box-in-box** | Hierarchical box diagrams from YAML | [repo](https://github.com/vedanta/box-in-box) |
+| **bib-dsl** | YAML modeling language + CLI for capability maps, architecture and org charts | [repo](https://github.com/vedanta/bib-dsl) |
+| **code-check** | Quality pipeline — format, lint, type-check, test for React+TS and Java | [repo](https://github.com/vedanta/code-check) |
 
 **AI / ML / RAG**
 
@@ -55,6 +56,7 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 |:--|:--|:--|
 | **k8s-samples** | Tutorials for core Kubernetes concepts | [repo](https://github.com/vedanta/k8s-samples) |
 | **k8s-vault** | HashiCorp Vault on kubeadm-based Kubernetes | [repo](https://github.com/vedanta/k8s-vault) |
+| **aws-network-patterns** | Cloud network architecture patterns & implementation guides | [repo](https://github.com/vedanta/aws-network-patterns) |
 | **gitflow-sample** | GitFlow branching model, visualized | [repo](https://github.com/vedanta/gitflow-sample) |
 
 ---
