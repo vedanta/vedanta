@@ -66,10 +66,10 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 **Languages** &nbsp;·&nbsp; Python · TypeScript · Go · Bash  
 **AI / ML** &nbsp;·&nbsp; LangChain · Ollama · OpenAI · Anthropic · Pydantic · Jupyter  
-**Web** &nbsp;·&nbsp; React · Next.js · Node.js · Vite · Astro · Tailwind · FastAPI · Flask  
+**Web** &nbsp;·&nbsp; React · Next.js · Node.js · Vite · Astro · Tailwind · Auth.js · Resend · FastAPI · Flask  
 **CLI & TUI** &nbsp;·&nbsp; Typer · Rich · Click  
-**Cloud & Infra** &nbsp;·&nbsp; AWS · GCP · Azure · Kubernetes · Docker · Terraform  
-**Data & Ops** &nbsp;·&nbsp; Postgres · Redis · SQLAlchemy · Drizzle · Prometheus · GitHub Actions · Linux
+**Cloud & Infra** &nbsp;·&nbsp; AWS · GCP · Azure · Vercel · Netlify · Kubernetes · Docker · Terraform  
+**Data & Ops** &nbsp;·&nbsp; Postgres · Neon · Redis · Upstash · SQLAlchemy · Drizzle · Prometheus · GitHub Actions · Linux
 
 ---
 
