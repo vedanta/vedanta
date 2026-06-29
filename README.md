@@ -70,9 +70,3 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 **CLI & TUI** &nbsp;·&nbsp; Typer · Rich · Click  
 **Cloud & Infra** &nbsp;·&nbsp; AWS · GCP · Azure · Vercel · Netlify · Kubernetes · Docker · Terraform  
 **Data & Ops** &nbsp;·&nbsp; Postgres · Neon · Redis · Upstash · SQLAlchemy · Drizzle · Prometheus · GitHub Actions · Linux
-
----
-
-### Contributions
-
-<img src="https://raw.githubusercontent.com/vedanta/vedanta/main/assets/contributions.svg" width="100%" alt="monthly contributions" />
