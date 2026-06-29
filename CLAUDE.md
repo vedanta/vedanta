@@ -8,39 +8,35 @@ This is a **GitHub profile repository** (`vedanta/vedanta`). The README.md is re
 
 ## Architecture
 
-- **README.md** — The profile page. Uses HTML/Markdown with badge shields, skill icons, featured project links, and embedded SVG visualizations.
-- **profile-3d-contrib/** — Auto-generated 3D contribution calendar SVGs (committed by CI, do not edit manually).
+- **README.md** — The profile page. Minimal, typographic layout: plain Markdown headers with `---` section rules, monochrome social badge shields, a text-only project list, grouped text tech-stack categories, and a single embedded SVG (the snake animation).
+- **profile-3d-contrib/** — Auto-generated 3D contribution calendar SVGs (committed by CI, do not edit manually). The workflow still runs, but these SVGs are **no longer embedded in README.md** — they remain in the repo only as generated artifacts.
 - **.github/workflows/** — Three automated workflows:
-  - `3d-contrib.yml` — Generates 3D contribution calendar SVGs daily and on push to main (uses `yoshi389111/github-profile-3d-contrib@0.7.1`). Output committed directly to `main`.
+  - `3d-contrib.yml` — Generates 3D contribution calendar SVGs daily and on push to main (uses `yoshi389111/github-profile-3d-contrib@0.7.1`). Output committed directly to `main`. (Not referenced by the README.)
   - `snake.yml` — Generates snake animation SVGs daily and on push to main (uses `Platane/snk/svg-only@v3`). Output pushed to the `output` branch.
   - `blog-posts.yml` — Pulls latest Medium posts from `@barooah` feed daily (uses `gautamkrishnar/blog-post-workflow@v1`). Expects a `<!-- BLOG-POST-LIST -->` marker in README.md.
 
 ## README Layout Rules
 
-The profile page sections appear in this order:
-1. Header banner + social badge links
-2. Featured Projects (with "🦍 The Gorilla Stack" tagline in `<kbd>` style)
-3. Snake animation
-4. Tech Stack
-5. Contributions (3D calendar)
-6. Footer
+The design is deliberately **minimal and typographic** — plain text and whitespace over decoration. No waving banners, no skill-icon walls, no embedded 3D calendar. Sections appear in this order, separated by `---` rules:
+1. Header — centered `# Vedanta Barooah`, a `·`-separated tagline, and four monochrome social badges (all `181717`)
+2. Featured Projects (text-only list; heading carries the "🦍 The Gorilla Stack" tag in inline `<sub>`)
+3. Tech Stack (grouped text categories)
+4. Contributions (snake animation only)
+
+There is no footer banner.
 
 ### Featured Projects
 
-- Projects are displayed in a single `<table>` row with equal-width columns (currently 5 at 20%).
-- All `<td>` cells use `align="center" valign="top"` to keep images top-aligned.
-- Hero images come from `https://raw.githubusercontent.com/vedanta/hero-images/main/<projectname>.png`.
-- When hero images are updated in the `hero-images` repo, bump the `?v=N` cache-buster query parameter on all image URLs to force GitHub's CDN to serve the new versions.
-- Each project card structure: hero image → project name (linked) → `<sub>` description → badge buttons.
+- Projects are a plain Markdown bulleted list — **no `<table>`, no hero images**.
+- Each item: `- **[name](primary-url)** — one-line description` followed by a `<sub>` line of links on the next line (two trailing spaces force the line break).
+- Keep descriptions to a single scannable line (~6–10 words).
 - If a project has a GitHub Pages site (`gh api repos/vedanta/<repo>/pages` to check):
-  - The project name links to the Pages site.
-  - Show two badges below the description: a blue "page" badge (links to Pages) and a dark "repo" badge (links to GitHub repo).
-  - Page badge: `https://img.shields.io/badge/-page-0A66C2?style=flat&logo=googlechrome&logoColor=white`
-  - Repo badge: `https://img.shields.io/badge/-repo-181717?style=flat&logo=github&logoColor=white`
+  - The bold name links to the Pages site.
+  - The `<sub>` line shows two plain text links: `[page](pages-url) · [repo](repo-url)`.
 - If a project has no GitHub Pages site:
-  - The project name links to the GitHub repo.
-  - Show only a "repo" badge below the description.
-- When adding a new project, adjust column `width` percentages so all columns are equal (e.g., 5 projects = 20% each).
+  - The bold name links to the GitHub repo.
+  - The `<sub>` line shows only `[repo](repo-url)`.
+- When adding a new project, just append another list item — no column-width math needed.
 - After any README change, always `git pull --rebase` before pushing since CI frequently commits to main.
 
 ## Key Details
