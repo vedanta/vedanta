@@ -13,22 +13,25 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ---
 
-### Featured Projects &nbsp;·&nbsp; <sub>🦍 The Gorilla Stack</sub>
+### Featured Projects
 
 - **[the-system](https://vedanta.github.io/the-system/)** — Multi-agent orchestration: roles, stages, human gates, autonomous execution  
   <sub>[page](https://vedanta.github.io/the-system/) · [repo](https://github.com/vedanta/the-system)</sub>
 
-- **[rasa](https://vedanta.github.io/rasa/)** — Persona-driven, memory-integrated framework for AI agents  
-  <sub>[page](https://vedanta.github.io/rasa/) · [repo](https://github.com/vedanta/rasa)</sub>
-
-- **[dfo](https://vedanta.github.io/dfo/)** — Multi-cloud cost optimization toolkit  
-  <sub>[page](https://vedanta.github.io/dfo/) · [repo](https://github.com/vedanta/dfo)</sub>
-
 - **[ui-cli](https://vedanta.github.io/ui-cli/)** — Fast, full-featured CLI for UniFi networks  
   <sub>[page](https://vedanta.github.io/ui-cli/) · [repo](https://github.com/vedanta/ui-cli)</sub>
 
-- **[learngen](https://github.com/vedanta/learngen)** — Agentic pipeline for staged tutorials and learning guides  
-  <sub>[repo](https://github.com/vedanta/learngen)</sub>
+- **[rasa](https://vedanta.github.io/rasa/)** — Persona-driven, memory-integrated framework for AI agents  
+  <sub>[page](https://vedanta.github.io/rasa/) · [repo](https://github.com/vedanta/rasa)</sub>
+
+- **[dew](https://vedanta.github.io/dew/)** — Local-first CLI for managing repository secrets and local context  
+  <sub>[page](https://vedanta.github.io/dew/) · [repo](https://github.com/vedanta/dew)</sub>
+
+- **[terragon](https://vedanta.github.io/terragon/)** — GitHub Issues, organized for execution  
+  <sub>[page](https://vedanta.github.io/terragon/) · [repo](https://github.com/vedanta/terragon)</sub>
+
+- **[dfo](https://vedanta.github.io/dfo/)** — Multi-cloud cost optimization toolkit  
+  <sub>[page](https://vedanta.github.io/dfo/) · [repo](https://github.com/vedanta/dfo)</sub>
 
 ---
 
