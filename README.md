@@ -41,6 +41,7 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 | **jinc** | Jupyter Interactive Notebook Creator | [repo](https://github.com/vedanta/jinc) |
 | **bib-dsl** | YAML modeling language + CLI for capability maps, architecture and org charts | [repo](https://github.com/vedanta/bib-dsl) |
 | **code-check** | Quality pipeline — format, lint, type-check, test for React+TS and Java | [repo](https://github.com/vedanta/code-check) |
+| **learngen** | Agentic pipeline for staged tutorials and learning guides | [repo](https://github.com/vedanta/learngen) |
 
 **AI / ML / RAG**
 
