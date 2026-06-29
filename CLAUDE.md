@@ -20,7 +20,7 @@ This is a **GitHub profile repository** (`vedanta/vedanta`). The README.md is re
 The design is deliberately **minimal and typographic** — plain text and whitespace over decoration. No waving banners, no skill-icon walls, no embedded 3D calendar. Sections appear in this order, separated by `---` rules:
 1. Header — centered `# Vedanta Barooah`, a `·`-separated tagline, and four monochrome social badges (all `181717`)
 2. Featured Projects (one-line text list)
-3. More Projects (one-line text list; non-featured but notable repos)
+3. More Projects (one-line text list grouped under bold sub-headings: "Dev tools & CLI utilities", "AI / ML / RAG", "Learning & reference")
 4. Tech Stack (grouped text categories)
 5. Contributions (snake animation only)
 

@@ -26,11 +26,28 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ### More Projects
 
+**Dev tools & CLI utilities**
+
 **llm-box** <sub>([repo](https://github.com/vedanta/llm-box))</sub> — Local AI superpowers in your shell, no cloud required  
 **ccrs** <sub>([repo](https://github.com/vedanta/ccrs))</sub> — Lean Claude Code routing service  
 **cra-run** <sub>([page](https://vedanta.github.io/cra-run/) | [repo](https://github.com/vedanta/cra-run))</sub> — Run Claude-created React apps in Docker containers  
 **jot** <sub>([repo](https://github.com/vedanta/jot))</sub> — Local-first, notebook-powered personal knowledge base  
-**war-rag** <sub>([repo](https://github.com/vedanta/war-rag))</sub> — RAG demo with The Art of War, FAISS and local LLMs
+**streamdeck-br** <sub>([repo](https://github.com/vedanta/streamdeck-br))</sub> — Backup & restore Elgato Stream Deck settings on macOS  
+**shellot.sh** <sub>([repo](https://github.com/vedanta/shellot.sh))</sub> — macOS environment backup manager  
+**jinc** <sub>([repo](https://github.com/vedanta/jinc))</sub> — Jupyter Interactive Notebook Creator  
+**box-in-box** <sub>([repo](https://github.com/vedanta/box-in-box))</sub> — Hierarchical box diagrams from YAML
+
+**AI / ML / RAG**
+
+**rat** <sub>([repo](https://github.com/vedanta/rat))</sub> — Research assistant  
+**war-rag** <sub>([repo](https://github.com/vedanta/war-rag))</sub> — RAG demo with The Art of War, FAISS and local LLMs  
+**py-env** <sub>([repo](https://github.com/vedanta/py-env))</sub> — LLM starter kit with Conda + Ollama/OpenAI
+
+**Learning & reference**
+
+**k8s-samples** <sub>([repo](https://github.com/vedanta/k8s-samples))</sub> — Tutorials for core Kubernetes concepts  
+**k8s-vault** <sub>([repo](https://github.com/vedanta/k8s-vault))</sub> — HashiCorp Vault on kubeadm-based Kubernetes  
+**gitflow-sample** <sub>([repo](https://github.com/vedanta/gitflow-sample))</sub> — GitFlow branching model, visualized
 
 ---
 
