@@ -8,7 +8,7 @@ This is a **GitHub profile repository** (`vedanta/vedanta`). The README.md is re
 
 ## Architecture
 
-- **README.md** — The profile page. Minimal, typographic layout: plain Markdown headers with `---` section rules, monochrome social badge shields, a text-only project list, grouped text tech-stack categories, and a single embedded SVG (the snake animation).
+- **README.md** — The profile page. Minimal, typographic layout: plain Markdown headers with `---` section rules, monochrome social badge shields, a text-only project list, grouped text tech-stack categories, and a single embedded chart (the contribution activity graph from `github-readme-activity-graph`, themed transparent/borderless).
 - **profile-3d-contrib/** — Auto-generated 3D contribution calendar SVGs (committed by CI, do not edit manually). The workflow still runs, but these SVGs are **no longer embedded in README.md** — they remain in the repo only as generated artifacts.
 - **.github/workflows/** — Three automated workflows:
   - `3d-contrib.yml` — Generates 3D contribution calendar SVGs daily and on push to main (uses `yoshi389111/github-profile-3d-contrib@0.7.1`). Output committed directly to `main`. (Not referenced by the README.)
@@ -22,7 +22,7 @@ The design is deliberately **minimal and typographic** — plain text and whites
 2. Featured Projects (one-line text list)
 3. More Projects (one-line text list grouped under bold sub-headings: "Dev tools & CLI utilities", "AI / ML / RAG", "Learning & reference")
 4. Tech Stack (grouped text categories)
-5. Contributions (snake animation only)
+5. Contributions (contribution activity line graph)
 
 There is no footer banner.
 
