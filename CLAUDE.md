@@ -19,7 +19,7 @@ This is a **GitHub profile repository** (`vedanta/vedanta`). The README.md is re
 
 The design is deliberately **minimal and typographic** — plain text and whitespace over decoration. No waving banners, no skill-icon walls, no embedded 3D calendar. Sections appear in this order, separated by `---` rules:
 1. Header — centered `# Vedanta Barooah`, a `·`-separated tagline, and four monochrome social badges (all `181717`)
-2. Featured Projects (text-only list; heading carries the "🦍 The Gorilla Stack" tag in inline `<sub>`)
+2. Featured Projects (text-only list)
 3. Tech Stack (grouped text categories)
 4. Contributions (snake animation only)
 
