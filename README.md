@@ -35,6 +35,16 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ---
 
+### More Projects
+
+**llm-box** <sub>([repo](https://github.com/vedanta/llm-box))</sub> — Local AI superpowers in your shell, no cloud required  
+**ccrs** <sub>([repo](https://github.com/vedanta/ccrs))</sub> — Lean Claude Code routing service  
+**cra-run** <sub>([page](https://vedanta.github.io/cra-run/) | [repo](https://github.com/vedanta/cra-run))</sub> — Run Claude-created React apps in Docker containers  
+**jot** <sub>([repo](https://github.com/vedanta/jot))</sub> — Local-first, notebook-powered personal knowledge base  
+**war-rag** <sub>([repo](https://github.com/vedanta/war-rag))</sub> — RAG demo with The Art of War, FAISS and local LLMs
+
+---
+
 ### Tech Stack
 
 **Languages** &nbsp;·&nbsp; Python · TypeScript · Go · Bash  
