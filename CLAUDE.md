@@ -28,13 +28,14 @@ There is no footer banner.
 
 ### Featured Projects
 
-- Projects are a plain text list, one line per project — **no `<table>`, no hero images, no bullets**.
-- Each line: `**name** <sub>(links)</sub> — one-line description` with two trailing spaces to force the line break.
+- Projects are rendered as **borderless-style Markdown tables** (3 columns, left-aligned) — no hero images.
+- Each table uses an empty header row (`|  |  |  |` over `|:--|:--|:--|`); the section/category label above the table provides the heading.
+- Columns are: **name** (bold) | one-line description | links.
 - Keep descriptions to a single scannable line (~6–10 words).
-- The same one-line format is used for both the **Featured Projects** and **More Projects** sections.
-- If a project has a GitHub Pages site (`gh api repos/vedanta/<repo>/pages` to check), the links are `([page](pages-url) | [repo](repo-url))`.
-- If a project has no GitHub Pages site, the links are just `([repo](repo-url))`.
-- When adding a project, just append another line — no column-width math needed.
+- The same table format is used for both **Featured Projects** (one table) and **More Projects** (one table per category, each under a bold sub-heading).
+- If a project has a GitHub Pages site (`gh api repos/vedanta/<repo>/pages` to check), the links cell is `[page](pages-url) · [repo](repo-url)`.
+- If a project has no GitHub Pages site, the links cell is just `[repo](repo-url)`.
+- When adding a project, just append another table row — no column-width math needed.
 - After any README change, always `git pull --rebase` before pushing since CI frequently commits to main.
 
 ## Key Details

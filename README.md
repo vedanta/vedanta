@@ -15,12 +15,14 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ### Featured Projects
 
-**the-system** <sub>([page](https://vedanta.github.io/the-system/) | [repo](https://github.com/vedanta/the-system))</sub> — Multi-agent orchestration: roles, stages, human gates, autonomous execution  
-**ui-cli** <sub>([page](https://vedanta.github.io/ui-cli/) | [repo](https://github.com/vedanta/ui-cli))</sub> — Fast, full-featured CLI for UniFi networks  
-**rasa** <sub>([page](https://vedanta.github.io/rasa/) | [repo](https://github.com/vedanta/rasa))</sub> — Persona-driven, memory-integrated framework for AI agents  
-**dew** <sub>([page](https://vedanta.github.io/dew/) | [repo](https://github.com/vedanta/dew))</sub> — Local-first CLI for managing repository secrets and local context  
-**terragon** <sub>([page](https://vedanta.github.io/terragon/) | [repo](https://github.com/vedanta/terragon))</sub> — GitHub Issues, organized for execution  
-**dfo** <sub>([page](https://vedanta.github.io/dfo/) | [repo](https://github.com/vedanta/dfo))</sub> — Multi-cloud cost optimization toolkit
+|  |  |  |
+|:--|:--|:--|
+| **the-system** | Multi-agent orchestration: roles, stages, human gates, autonomous execution | [page](https://vedanta.github.io/the-system/) · [repo](https://github.com/vedanta/the-system) |
+| **ui-cli** | Fast, full-featured CLI for UniFi networks | [page](https://vedanta.github.io/ui-cli/) · [repo](https://github.com/vedanta/ui-cli) |
+| **rasa** | Persona-driven, memory-integrated framework for AI agents | [page](https://vedanta.github.io/rasa/) · [repo](https://github.com/vedanta/rasa) |
+| **dew** | Local-first CLI for managing repository secrets and local context | [page](https://vedanta.github.io/dew/) · [repo](https://github.com/vedanta/dew) |
+| **terragon** | GitHub Issues, organized for execution | [page](https://vedanta.github.io/terragon/) · [repo](https://github.com/vedanta/terragon) |
+| **dfo** | Multi-cloud cost optimization toolkit | [page](https://vedanta.github.io/dfo/) · [repo](https://github.com/vedanta/dfo) |
 
 ---
 
@@ -28,26 +30,32 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 **Dev tools & CLI utilities**
 
-**llm-box** <sub>([repo](https://github.com/vedanta/llm-box))</sub> — Local AI superpowers in your shell, no cloud required  
-**ccrs** <sub>([repo](https://github.com/vedanta/ccrs))</sub> — Lean Claude Code routing service  
-**cra-run** <sub>([page](https://vedanta.github.io/cra-run/) | [repo](https://github.com/vedanta/cra-run))</sub> — Run Claude-created React apps in Docker containers  
-**jot** <sub>([repo](https://github.com/vedanta/jot))</sub> — Local-first, notebook-powered personal knowledge base  
-**streamdeck-br** <sub>([repo](https://github.com/vedanta/streamdeck-br))</sub> — Backup & restore Elgato Stream Deck settings on macOS  
-**shellot.sh** <sub>([repo](https://github.com/vedanta/shellot.sh))</sub> — macOS environment backup manager  
-**jinc** <sub>([repo](https://github.com/vedanta/jinc))</sub> — Jupyter Interactive Notebook Creator  
-**box-in-box** <sub>([repo](https://github.com/vedanta/box-in-box))</sub> — Hierarchical box diagrams from YAML
+|  |  |  |
+|:--|:--|:--|
+| **llm-box** | Local AI superpowers in your shell, no cloud required | [repo](https://github.com/vedanta/llm-box) |
+| **ccrs** | Lean Claude Code routing service | [repo](https://github.com/vedanta/ccrs) |
+| **cra-run** | Run Claude-created React apps in Docker containers | [page](https://vedanta.github.io/cra-run/) · [repo](https://github.com/vedanta/cra-run) |
+| **jot** | Local-first, notebook-powered personal knowledge base | [repo](https://github.com/vedanta/jot) |
+| **streamdeck-br** | Backup & restore Elgato Stream Deck settings on macOS | [repo](https://github.com/vedanta/streamdeck-br) |
+| **shellot.sh** | macOS environment backup manager | [repo](https://github.com/vedanta/shellot.sh) |
+| **jinc** | Jupyter Interactive Notebook Creator | [repo](https://github.com/vedanta/jinc) |
+| **box-in-box** | Hierarchical box diagrams from YAML | [repo](https://github.com/vedanta/box-in-box) |
 
 **AI / ML / RAG**
 
-**rat** <sub>([repo](https://github.com/vedanta/rat))</sub> — Research assistant  
-**war-rag** <sub>([repo](https://github.com/vedanta/war-rag))</sub> — RAG demo with The Art of War, FAISS and local LLMs  
-**py-env** <sub>([repo](https://github.com/vedanta/py-env))</sub> — LLM starter kit with Conda + Ollama/OpenAI
+|  |  |  |
+|:--|:--|:--|
+| **rat** | Research assistant | [repo](https://github.com/vedanta/rat) |
+| **war-rag** | RAG demo with The Art of War, FAISS and local LLMs | [repo](https://github.com/vedanta/war-rag) |
+| **py-env** | LLM starter kit with Conda + Ollama/OpenAI | [repo](https://github.com/vedanta/py-env) |
 
 **Learning & reference**
 
-**k8s-samples** <sub>([repo](https://github.com/vedanta/k8s-samples))</sub> — Tutorials for core Kubernetes concepts  
-**k8s-vault** <sub>([repo](https://github.com/vedanta/k8s-vault))</sub> — HashiCorp Vault on kubeadm-based Kubernetes  
-**gitflow-sample** <sub>([repo](https://github.com/vedanta/gitflow-sample))</sub> — GitFlow branching model, visualized
+|  |  |  |
+|:--|:--|:--|
+| **k8s-samples** | Tutorials for core Kubernetes concepts | [repo](https://github.com/vedanta/k8s-samples) |
+| **k8s-vault** | HashiCorp Vault on kubeadm-based Kubernetes | [repo](https://github.com/vedanta/k8s-vault) |
+| **gitflow-sample** | GitFlow branching model, visualized | [repo](https://github.com/vedanta/gitflow-sample) |
 
 ---
 
