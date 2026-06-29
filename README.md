@@ -75,4 +75,4 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ### Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedanta&bg_color=00000000&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&hide_title=true&days=365" width="100%" alt="contribution activity graph" />
+<img src="https://raw.githubusercontent.com/vedanta/vedanta/main/assets/contributions.svg" width="100%" alt="monthly contributions" />
