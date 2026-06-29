@@ -65,9 +65,11 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 ### Tech Stack
 
 **Languages** &nbsp;·&nbsp; Python · TypeScript · Go · Bash  
-**Web** &nbsp;·&nbsp; React · Next.js · Node.js · Tailwind · FastAPI · Flask  
+**AI / ML** &nbsp;·&nbsp; LangChain · Ollama · OpenAI · Anthropic · Pydantic · Jupyter  
+**Web** &nbsp;·&nbsp; React · Next.js · Node.js · Vite · Astro · Tailwind · FastAPI · Flask  
+**CLI & TUI** &nbsp;·&nbsp; Typer · Rich · Click  
 **Cloud & Infra** &nbsp;·&nbsp; AWS · GCP · Azure · Kubernetes · Docker · Terraform  
-**Data & Ops** &nbsp;·&nbsp; Postgres · Redis · Prometheus · GitHub Actions · Linux
+**Data & Ops** &nbsp;·&nbsp; Postgres · Redis · SQLAlchemy · Drizzle · Prometheus · GitHub Actions · Linux
 
 ---
 
