@@ -9,11 +9,10 @@ This is a **GitHub profile repository** (`vedanta/vedanta`). The README.md is re
 ## Architecture
 
 - **README.md** — The profile page. Minimal, typographic layout: plain Markdown headers with `---` section rules, monochrome social badge shields, a text-only project list, and grouped text tech-stack categories. No contribution visualization is embedded — GitHub already renders the contribution calendar natively below the profile README, so any embedded chart/snake/3D calendar would be redundant.
-- **profile-3d-contrib/** — Auto-generated 3D contribution calendar SVGs (committed by CI, do not edit manually). The workflow still runs, but these SVGs are **no longer embedded in README.md** — they remain in the repo only as generated artifacts.
-- **.github/workflows/** — Three automated workflows:
-  - `3d-contrib.yml` — Generates 3D contribution calendar SVGs daily and on push to main (uses `yoshi389111/github-profile-3d-contrib@0.7.1`). Output committed directly to `main`. (Not referenced by the README.)
-  - `snake.yml` — Generates snake animation SVGs daily and on push to main (uses `Platane/snk/svg-only@v3`). Output pushed to the `output` branch.
+- **.github/workflows/** — One automated workflow:
   - `blog-posts.yml` — Pulls latest Medium posts from `@barooah` feed daily (uses `gautamkrishnar/blog-post-workflow@v1`). Expects a `<!-- BLOG-POST-LIST -->` marker in README.md.
+
+  The old contribution-visualization workflows (`3d-contrib.yml` / snake, plus the `profile-3d-contrib/` dir and `output` branch) were removed — GitHub's native contribution calendar makes embedded charts redundant.
 
 ## README Layout Rules
 
@@ -39,6 +38,4 @@ There is no footer banner and no embedded contributions chart (Tech Stack is the
 
 ## Key Details
 
-- The `output` branch holds snake animation SVGs and is managed entirely by CI — do not commit to it manually.
-- SVG files in `profile-3d-contrib/` are large (170KB–400KB) and regenerated daily — avoid including them in diffs.
-- Most recent commits are automated bot commits ("Update 3D contribution calendar").
+- After any README change, always `git pull --rebase` before pushing — the `blog-posts.yml` workflow occasionally commits to `main`.
