@@ -19,24 +19,22 @@ This is a **GitHub profile repository** (`vedanta/vedanta`). The README.md is re
 
 The design is deliberately **minimal and typographic** — plain text and whitespace over decoration. No waving banners, no skill-icon walls, no embedded 3D calendar. Sections appear in this order, separated by `---` rules:
 1. Header — centered `# Vedanta Barooah`, a `·`-separated tagline, and four monochrome social badges (all `181717`)
-2. Featured Projects (text-only list)
-3. Tech Stack (grouped text categories)
-4. Contributions (snake animation only)
+2. Featured Projects (one-line text list)
+3. More Projects (one-line text list; non-featured but notable repos)
+4. Tech Stack (grouped text categories)
+5. Contributions (snake animation only)
 
 There is no footer banner.
 
 ### Featured Projects
 
-- Projects are a plain Markdown bulleted list — **no `<table>`, no hero images**.
-- Each item: `- **[name](primary-url)** — one-line description` followed by a `<sub>` line of links on the next line (two trailing spaces force the line break).
+- Projects are a plain text list, one line per project — **no `<table>`, no hero images, no bullets**.
+- Each line: `**name** <sub>(links)</sub> — one-line description` with two trailing spaces to force the line break.
 - Keep descriptions to a single scannable line (~6–10 words).
-- If a project has a GitHub Pages site (`gh api repos/vedanta/<repo>/pages` to check):
-  - The bold name links to the Pages site.
-  - The `<sub>` line shows two plain text links: `[page](pages-url) · [repo](repo-url)`.
-- If a project has no GitHub Pages site:
-  - The bold name links to the GitHub repo.
-  - The `<sub>` line shows only `[repo](repo-url)`.
-- When adding a new project, just append another list item — no column-width math needed.
+- The same one-line format is used for both the **Featured Projects** and **More Projects** sections.
+- If a project has a GitHub Pages site (`gh api repos/vedanta/<repo>/pages` to check), the links are `([page](pages-url) | [repo](repo-url))`.
+- If a project has no GitHub Pages site, the links are just `([repo](repo-url))`.
+- When adding a project, just append another line — no column-width math needed.
 - After any README change, always `git pull --rebase` before pushing since CI frequently commits to main.
 
 ## Key Details
