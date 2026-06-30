@@ -70,3 +70,13 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 **CLI & TUI** &nbsp;·&nbsp; Typer · Rich · Click  
 **Cloud & Infra** &nbsp;·&nbsp; AWS · GCP · Azure · Vercel · Netlify · Kubernetes · Docker · Terraform  
 **Data & Ops** &nbsp;·&nbsp; Postgres · Neon · Redis · Upstash · SQLAlchemy · Drizzle · Prometheus · GitHub Actions · Linux
+
+---
+
+<div align="center">
+
+<sub>The rest is live below — pinned repos, the contribution graph, and recent activity.</sub>
+
+<sub>↓</sub>
+
+</div>

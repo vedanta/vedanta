@@ -21,8 +21,9 @@ The design is deliberately **minimal and typographic** — plain text and whites
 2. Featured Projects (one-line text list)
 3. More Projects (one-line text list grouped under bold sub-headings: "Dev tools & CLI utilities", "AI / ML / RAG", "Learning & reference")
 4. Tech Stack (grouped text categories)
+5. Closing handoff — a small centered `<sub>` line that bridges into GitHub's native profile content (pinned repos, contribution graph, recent activity) rendered below the README, with a `↓` pointer.
 
-There is no footer banner and no embedded contributions chart (Tech Stack is the last section).
+There is no footer banner and no embedded contributions chart (GitHub renders the contribution calendar natively below the README; the closing line points to it).
 
 ### Featured Projects
 
