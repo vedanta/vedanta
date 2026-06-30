@@ -75,8 +75,6 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 <div align="center">
 
-<sub>The rest is live below — pinned repos, the contribution graph, and recent activity.</sub>
-
-<sub>↓</sub>
+<sub>↓ &nbsp; recent work & activity below</sub>
 
 </div>
