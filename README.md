@@ -75,6 +75,6 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 <div align="center">
 
-<sub>↓ &nbsp; recent work & activity below</sub>
+<sub>↓</sub>
 
 </div>
