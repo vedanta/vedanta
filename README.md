@@ -74,7 +74,7 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 **Enterprise architecture** &nbsp;·&nbsp; Capability mapping · Reference architectures · ADRs · Maturity models · Governance & policy  
 **Agents & retrieval** &nbsp;·&nbsp; Multi-agent orchestration · Tool calling · MCP · RAG · Vector search  
 **Apps & delivery** &nbsp;·&nbsp; Local-first · Monorepos · REST APIs · PWA · Serverless  
-**Cloud & network** &nbsp;·&nbsp; Hub-and-spoke · Landing zones · Transit Gateway · VPC peering · Service mesh · Multi-region · Edge  
+**Cloud & network** &nbsp;·&nbsp; Hub-and-spoke · Landing zones · Transit Gateway · VPC peering · Service mesh · Multi-region · Edge · FinOps  
 **AI serving** &nbsp;·&nbsp; AI gateway · Semantic routing · Semantic caching · Distributed inference · GPU scheduling · Multi-model hosting  
 **AI ops** &nbsp;·&nbsp; Capability-first design · Model distillation / SLMs · AI FinOps  
 **Security & identity** &nbsp;·&nbsp; IAM / RBAC · SSO / OIDC · Secrets management · Policy-as-code · Network policies · Audit logging
