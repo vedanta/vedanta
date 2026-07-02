@@ -69,6 +69,12 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ---
 
+### Architecture & Patterns
+
+Multi-agent orchestration · RAG · Local-first · Monorepos · Serverless · PWA · MCP · REST APIs
+
+---
+
 ### Tech Stack
 
 **Languages** &nbsp;·&nbsp; Python · TypeScript · Go · Bash  
