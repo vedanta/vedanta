@@ -76,7 +76,8 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 **Web** &nbsp;·&nbsp; React · React Native · Next.js · Node.js · Vite · Astro · Tailwind · Framer Motion · Auth.js · Resend · Zod · FastAPI · Flask  
 **CLI & TUI** &nbsp;·&nbsp; Typer · Rich · Click · Cobra  
 **Cloud & Infra** &nbsp;·&nbsp; AWS · GCP · Azure · Vercel · Netlify · Kubernetes · Docker · Terraform  
-**Data & Ops** &nbsp;·&nbsp; Postgres · Neon · Redis · Upstash · DuckDB · SQLAlchemy · Drizzle · Alembic · pandas · Plaid · Graphviz · age · Prometheus · GitHub Actions · Linux  
+**Data** &nbsp;·&nbsp; Postgres · Neon · Redis · Upstash · DuckDB · SQLAlchemy · Drizzle · Alembic · pandas · Plaid  
+**Ops & Tooling** &nbsp;·&nbsp; Graphviz · age · Prometheus · GitHub Actions · Linux  
 **Testing & quality** &nbsp;·&nbsp; Pytest · Vitest · Playwright · Ruff · mypy
 
 ---
