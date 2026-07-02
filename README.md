@@ -71,7 +71,9 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ### Architecture & Patterns
 
-Multi-agent orchestration · RAG · Local-first · Monorepos · Serverless · PWA · MCP · REST APIs
+**Agents & apps** &nbsp;·&nbsp; Multi-agent orchestration · RAG · Tool calling · MCP · Local-first · Monorepos · REST APIs · PWA  
+**Cloud & network** &nbsp;·&nbsp; Hub-and-spoke · Multi-account landing zone · Transit Gateway · VPC peering · Service mesh · Multi-region · Serverless · Edge  
+**GenAI platform** &nbsp;·&nbsp; Capability-first design · AI gateway · Semantic routing · Semantic caching · Distributed inference · GPU scheduling · Multi-model hosting · Model distillation / SLMs · AI FinOps
 
 ---
 
@@ -79,11 +81,12 @@ Multi-agent orchestration · RAG · Local-first · Monorepos · Serverless · PW
 
 **Languages** &nbsp;·&nbsp; Python · TypeScript · Go · Bash  
 **AI / ML** &nbsp;·&nbsp; LangChain · LangGraph · Ollama · OpenAI · Anthropic · Pydantic · Streamlit · Jupyter  
+**AI infra** &nbsp;·&nbsp; OpenShift · k3s · Kong · vLLM · NVIDIA NIM · Triton · llama.cpp · Run:AI · Bedrock  
 **Web** &nbsp;·&nbsp; React · React Native · Next.js · Node.js · Vite · Astro · Tailwind · Framer Motion · Auth.js · Resend · Zod · FastAPI · Flask  
 **CLI & TUI** &nbsp;·&nbsp; Typer · Rich · Click · Cobra  
 **Cloud & Infra** &nbsp;·&nbsp; AWS · GCP · Azure · Vercel · Netlify · Kubernetes · Docker · Terraform  
 **Data** &nbsp;·&nbsp; Postgres · Neon · Redis · Upstash · DuckDB · SQLAlchemy · Drizzle · Alembic · pandas · Plaid  
-**Ops & Tooling** &nbsp;·&nbsp; Graphviz · age · Prometheus · GitHub Actions · Linux  
+**Ops & Tooling** &nbsp;·&nbsp; Graphviz · Mermaid · OpenTelemetry · Grafana · Prometheus · Ansible · GitOps · age · GitHub Actions · Linux  
 **Testing & quality** &nbsp;·&nbsp; Pytest · Vitest · Playwright · Ruff · mypy
 
 ---
