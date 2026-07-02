@@ -71,6 +71,7 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ### Architecture & Patterns
 
+**Enterprise architecture** &nbsp;·&nbsp; Capability mapping · Reference architectures · ADRs · Maturity models · Governance & policy · Docs-as-code  
 **Agents & retrieval** &nbsp;·&nbsp; Multi-agent orchestration · Tool calling · MCP · RAG · Vector search  
 **Apps & delivery** &nbsp;·&nbsp; Local-first · Monorepos · REST APIs · PWA · Serverless  
 **Cloud & network** &nbsp;·&nbsp; Hub-and-spoke · Landing zones · Transit Gateway · VPC peering · Service mesh · Multi-region · Edge  
