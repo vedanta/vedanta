@@ -76,7 +76,8 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 **Apps & delivery** &nbsp;·&nbsp; Local-first · Monorepos · REST APIs · PWA · Serverless  
 **Cloud & network** &nbsp;·&nbsp; Hub-and-spoke · Landing zones · Transit Gateway · VPC peering · Service mesh · Multi-region · Edge  
 **AI serving** &nbsp;·&nbsp; AI gateway · Semantic routing · Semantic caching · Distributed inference · GPU scheduling · Multi-model hosting  
-**AI ops** &nbsp;·&nbsp; Capability-first design · Model distillation / SLMs · AI FinOps
+**AI ops** &nbsp;·&nbsp; Capability-first design · Model distillation / SLMs · AI FinOps  
+**Security & identity** &nbsp;·&nbsp; IAM / RBAC · SSO / OIDC · Secrets management · Policy-as-code · Network policies · Audit logging
 
 ---
 
@@ -89,7 +90,8 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 **CLI & TUI** &nbsp;·&nbsp; Typer · Rich · Click · Cobra  
 **Cloud & Infra** &nbsp;·&nbsp; AWS · GCP · Azure · Vercel · Netlify · Kubernetes · Docker · Terraform  
 **Data** &nbsp;·&nbsp; Postgres · Neon · Redis · Upstash · DuckDB · SQLAlchemy · Drizzle · Alembic · pandas · Plaid  
-**Ops & Tooling** &nbsp;·&nbsp; Graphviz · Mermaid · OpenTelemetry · Grafana · Prometheus · Ansible · GitOps · age · GitHub Actions · Linux  
+**Security** &nbsp;·&nbsp; Vault · OAuth / OIDC · JWT · age · Keyring  
+**Ops & Tooling** &nbsp;·&nbsp; Graphviz · Mermaid · OpenTelemetry · Grafana · Prometheus · Ansible · GitOps · GitHub Actions · Linux  
 **Testing & quality** &nbsp;·&nbsp; Pytest · Vitest · Playwright · Ruff · mypy
 
 ---
