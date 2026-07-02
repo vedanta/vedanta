@@ -51,6 +51,13 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 | **war-rag** | RAG demo with The Art of War, FAISS and local LLMs | [repo](https://github.com/vedanta/war-rag) |
 | **py-env** | LLM starter kit with Conda + Ollama/OpenAI | [repo](https://github.com/vedanta/py-env) |
 
+**Games**
+
+|  |  |  |
+|:--|:--|:--|
+| **ludo** | Digital Ludo board game — React/TS + FastAPI, PWA, offline | [repo](https://github.com/vedanta/ludo) |
+| **tic-tac-toe** | Elegant two-player Tic-Tac-Toe with React + Framer Motion | [repo](https://github.com/vedanta/tic-tac-toe) |
+
 **Learning & reference**
 
 |  |  |  |
