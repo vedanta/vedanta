@@ -71,9 +71,11 @@ Enterprise architecture · AI/ML systems · Cloud infrastructure
 
 ### Architecture & Patterns
 
-**Agents & apps** &nbsp;·&nbsp; Multi-agent orchestration · RAG · Tool calling · MCP · Local-first · Monorepos · REST APIs · PWA  
-**Cloud & network** &nbsp;·&nbsp; Hub-and-spoke · Multi-account landing zone · Transit Gateway · VPC peering · Service mesh · Multi-region · Serverless · Edge  
-**GenAI platform** &nbsp;·&nbsp; Capability-first design · AI gateway · Semantic routing · Semantic caching · Distributed inference · GPU scheduling · Multi-model hosting · Model distillation / SLMs · AI FinOps
+**Agents & retrieval** &nbsp;·&nbsp; Multi-agent orchestration · Tool calling · MCP · RAG · Vector search  
+**Apps & delivery** &nbsp;·&nbsp; Local-first · Monorepos · REST APIs · PWA · Serverless  
+**Cloud & network** &nbsp;·&nbsp; Hub-and-spoke · Landing zones · Transit Gateway · VPC peering · Service mesh · Multi-region · Edge  
+**AI serving** &nbsp;·&nbsp; AI gateway · Semantic routing · Semantic caching · Distributed inference · GPU scheduling · Multi-model hosting  
+**AI ops** &nbsp;·&nbsp; Capability-first design · Model distillation / SLMs · AI FinOps
 
 ---
 
